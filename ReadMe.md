@@ -1,7 +1,8 @@
 ### Fast.AI Implementation for the Invasive Species Detection Kaggle Competition
-#### Using ResNet34 Architecture with PyTorch as Backend
+### Using ResNet34 Architecture with PyTorch as Back end
 
-#### Description: Tangles of kudzu overwhelm trees in Georgia while cane toads threaten 
+#### Description: 
+Tangles of kudzu overwhelm trees in Georgia while cane toads threaten 
 habitats in over a dozen countries worldwide. These are just two invasive species of 
 many which can have damaging effects on the environment, the economy, and even human health. 
 Despite widespread impact, efforts to track the location and spread of invasive species 
@@ -25,4 +26,4 @@ presence of the invasive species in the testing set of pictures.
   * With precomputation: 90.07% accuracy
   * With Differential Learning Rate: 97.65% accuracy
   * With Test Time Augmentation: 97.81% accuracy
-  * Submission on the Test Set(without TTA): 98.64% accuracy"
+  * Submission on the Test Set(without TTA): 98.64% accuracy
